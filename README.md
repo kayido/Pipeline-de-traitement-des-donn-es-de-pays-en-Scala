@@ -1,8 +1,5 @@
 # ✅ mon-projet-etl
 
-**Etudiant : Fergal Dorian KOLAT DJOKO**
-(Membre unique)
-
 **Projet ETL (Scala)** pour parser, valider et analyser des jeux de données sur les pays du monde.
 
 ---
