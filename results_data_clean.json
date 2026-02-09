@@ -1,0 +1,358 @@
+{
+  "statistics" : {
+    "total_countries_parsed" : 101,
+    "total_countries_valid" : 101,
+    "parsing_errors" : 0,
+    "duplicates_removed" : 0
+  },
+  "TopCountriesPopulation" : [
+    {
+      "name" : "China",
+      "population" : 1400000000,
+      "continent" : "Asia"
+    },
+    {
+      "name" : "India",
+      "population" : 1380000000,
+      "continent" : "Asia"
+    },
+    {
+      "name" : "United States",
+      "population" : 331000000,
+      "continent" : "North America"
+    },
+    {
+      "name" : "Indonesia",
+      "population" : 273000000,
+      "continent" : "Asia"
+    },
+    {
+      "name" : "Pakistan",
+      "population" : 220000000,
+      "continent" : "Asia"
+    },
+    {
+      "name" : "Brazil",
+      "population" : 212000000,
+      "continent" : "South America"
+    },
+    {
+      "name" : "Nigeria",
+      "population" : 206000000,
+      "continent" : "Africa"
+    },
+    {
+      "name" : "Bangladesh",
+      "population" : 164000000,
+      "continent" : "Asia"
+    },
+    {
+      "name" : "Russia",
+      "population" : 145000000,
+      "continent" : "Europe"
+    },
+    {
+      "name" : "Mexico",
+      "population" : 128000000,
+      "continent" : "North America"
+    }
+  ],
+  "TopCountriesArea" : [
+    {
+      "name" : "Russia",
+      "code" : "RU",
+      "capital" : "Moscow",
+      "continent" : "Europe",
+      "population" : 145000000,
+      "area" : 17098242,
+      "gdp" : 1699,
+      "languages" : [
+        "Russian"
+      ],
+      "currency" : "Ruble"
+    },
+    {
+      "name" : "Canada",
+      "code" : "CA",
+      "capital" : "Ottawa",
+      "continent" : "North America",
+      "population" : 38000000,
+      "area" : 9984670,
+      "gdp" : 1736,
+      "languages" : [
+        "English",
+        "French"
+      ],
+      "currency" : "Dollar"
+    },
+    {
+      "name" : "United States",
+      "code" : "US",
+      "capital" : "Washington D.C.",
+      "continent" : "North America",
+      "population" : 331000000,
+      "area" : 9833517,
+      "gdp" : 21433,
+      "languages" : [
+        "English"
+      ],
+      "currency" : "Dollar"
+    },
+    {
+      "name" : "China",
+      "code" : "CN",
+      "capital" : "Beijing",
+      "continent" : "Asia",
+      "population" : 1400000000,
+      "area" : 9596961,
+      "gdp" : 14343,
+      "languages" : [
+        "Mandarin"
+      ],
+      "currency" : "Yuan"
+    },
+    {
+      "name" : "Brazil",
+      "code" : "BR",
+      "capital" : "Brasília",
+      "continent" : "South America",
+      "population" : 212000000,
+      "area" : 8515767,
+      "gdp" : 1839,
+      "languages" : [
+        "Portuguese"
+      ],
+      "currency" : "Real"
+    },
+    {
+      "name" : "Australia",
+      "code" : "AU",
+      "capital" : "Canberra",
+      "continent" : "Oceania",
+      "population" : 26000000,
+      "area" : 7692024,
+      "gdp" : 1393,
+      "languages" : [
+        "English"
+      ],
+      "currency" : "Dollar"
+    },
+    {
+      "name" : "India",
+      "code" : "IN",
+      "capital" : "New Delhi",
+      "continent" : "Asia",
+      "population" : 1380000000,
+      "area" : 3287263,
+      "gdp" : 2875,
+      "languages" : [
+        "Hindi",
+        "English"
+      ],
+      "currency" : "Rupee"
+    },
+    {
+      "name" : "Argentina",
+      "code" : "AR",
+      "capital" : "Buenos Aires",
+      "continent" : "South America",
+      "population" : 45000000,
+      "area" : 2780400,
+      "gdp" : 450,
+      "languages" : [
+        "Spanish"
+      ],
+      "currency" : "Peso"
+    },
+    {
+      "name" : "Kazakhstan",
+      "code" : "KZ",
+      "capital" : "Nur-Sultan",
+      "continent" : "Asia",
+      "population" : 19000000,
+      "area" : 2724900,
+      "gdp" : 181,
+      "languages" : [
+        "Kazakh",
+        "Russian"
+      ],
+      "currency" : "Tenge"
+    },
+    {
+      "name" : "Algeria",
+      "code" : "DZ",
+      "capital" : "Algiers",
+      "continent" : "Africa",
+      "population" : 43000000,
+      "area" : 2381741,
+      "gdp" : 170,
+      "languages" : [
+        "Arabic",
+        "Berber"
+      ],
+      "currency" : "Dinar"
+    }
+  ],
+  "TopCountriesGdp" : [
+    {
+      "name" : "United States",
+      "code" : "US",
+      "capital" : "Washington D.C.",
+      "continent" : "North America",
+      "population" : 331000000,
+      "area" : 9833517,
+      "gdp" : 21433,
+      "languages" : [
+        "English"
+      ],
+      "currency" : "Dollar"
+    },
+    {
+      "name" : "China",
+      "code" : "CN",
+      "capital" : "Beijing",
+      "continent" : "Asia",
+      "population" : 1400000000,
+      "area" : 9596961,
+      "gdp" : 14343,
+      "languages" : [
+        "Mandarin"
+      ],
+      "currency" : "Yuan"
+    },
+    {
+      "name" : "Japan",
+      "code" : "JP",
+      "capital" : "Tokyo",
+      "continent" : "Asia",
+      "population" : 126000000,
+      "area" : 377975,
+      "gdp" : 5082,
+      "languages" : [
+        "Japanese"
+      ],
+      "currency" : "Yen"
+    },
+    {
+      "name" : "Germany",
+      "code" : "DE",
+      "capital" : "Berlin",
+      "continent" : "Europe",
+      "population" : 83000000,
+      "area" : 357022,
+      "gdp" : 3861,
+      "languages" : [
+        "German"
+      ],
+      "currency" : "Euro"
+    },
+    {
+      "name" : "India",
+      "code" : "IN",
+      "capital" : "New Delhi",
+      "continent" : "Asia",
+      "population" : 1380000000,
+      "area" : 3287263,
+      "gdp" : 2875,
+      "languages" : [
+        "Hindi",
+        "English"
+      ],
+      "currency" : "Rupee"
+    },
+    {
+      "name" : "United Kingdom",
+      "code" : "GB",
+      "capital" : "London",
+      "continent" : "Europe",
+      "population" : 67000000,
+      "area" : 243610,
+      "gdp" : 2829,
+      "languages" : [
+        "English"
+      ],
+      "currency" : "Pound"
+    },
+    {
+      "name" : "France",
+      "code" : "FR",
+      "capital" : "Paris",
+      "continent" : "Europe",
+      "population" : 65000000,
+      "area" : 551695,
+      "gdp" : 2716,
+      "languages" : [
+        "French"
+      ],
+      "currency" : "Euro"
+    },
+    {
+      "name" : "Italy",
+      "code" : "IT",
+      "capital" : "Rome",
+      "continent" : "Europe",
+      "population" : 60000000,
+      "area" : 301340,
+      "gdp" : 2001,
+      "languages" : [
+        "Italian"
+      ],
+      "currency" : "Euro"
+    },
+    {
+      "name" : "Brazil",
+      "code" : "BR",
+      "capital" : "Brasília",
+      "continent" : "South America",
+      "population" : 212000000,
+      "area" : 8515767,
+      "gdp" : 1839,
+      "languages" : [
+        "Portuguese"
+      ],
+      "currency" : "Real"
+    },
+    {
+      "name" : "Canada",
+      "code" : "CA",
+      "capital" : "Ottawa",
+      "continent" : "North America",
+      "population" : 38000000,
+      "area" : 9984670,
+      "gdp" : 1736,
+      "languages" : [
+        "English",
+        "French"
+      ],
+      "currency" : "Dollar"
+    }
+  ],
+  "AvgPopulationByContient" : {
+    "Oceania" : 1.75E7,
+    "North America" : 6.975E7,
+    "Europe" : 3.5578947368421055E7,
+    "South America" : 5.225E7,
+    "Asia" : 1.495E8,
+    "Africa" : 3.770588235294118E7
+  },
+  "CountryByContinent" : {
+    "Oceania" : 2,
+    "North America" : 8,
+    "Europe" : 19,
+    "South America" : 8,
+    "Asia" : 30,
+    "Africa" : 34
+  },
+  "most_common_languages" : {
+    "Russian" : 4,
+    "Quechua" : 2,
+    "Portuguese" : 4,
+    "Swahili" : 3,
+    "English" : 24,
+    "Arabic" : 14,
+    "Spanish" : 13,
+    "German" : 4,
+    "Berber" : 2,
+    "French" : 19
+  }
+}

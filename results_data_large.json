@@ -1,0 +1,352 @@
+{
+  "statistics" : {
+    "total_countries_parsed" : 12120,
+    "total_countries_valid" : 12120,
+    "parsing_errors" : 0,
+    "duplicates_removed" : 0
+  },
+  "TopCountriesPopulation" : [
+    {
+      "name" : "China",
+      "population" : 1400000000,
+      "continent" : "Asia"
+    },
+    {
+      "name" : "China (1)",
+      "population" : 1400000000,
+      "continent" : "Asia"
+    },
+    {
+      "name" : "China (2)",
+      "population" : 1400000000,
+      "continent" : "Asia"
+    },
+    {
+      "name" : "China (3)",
+      "population" : 1400000000,
+      "continent" : "Asia"
+    },
+    {
+      "name" : "China (4)",
+      "population" : 1400000000,
+      "continent" : "Asia"
+    },
+    {
+      "name" : "China (5)",
+      "population" : 1400000000,
+      "continent" : "Asia"
+    },
+    {
+      "name" : "China (6)",
+      "population" : 1400000000,
+      "continent" : "Asia"
+    },
+    {
+      "name" : "China (7)",
+      "population" : 1400000000,
+      "continent" : "Asia"
+    },
+    {
+      "name" : "China (8)",
+      "population" : 1400000000,
+      "continent" : "Asia"
+    },
+    {
+      "name" : "China (9)",
+      "population" : 1400000000,
+      "continent" : "Asia"
+    }
+  ],
+  "TopCountriesArea" : [
+    {
+      "name" : "Russia",
+      "code" : "RU",
+      "capital" : "Moscow",
+      "continent" : "Europe",
+      "population" : 145000000,
+      "area" : 17098242,
+      "gdp" : 1699,
+      "languages" : [
+        "Russian"
+      ],
+      "currency" : "Ruble"
+    },
+    {
+      "name" : "Russia (1)",
+      "code" : "RU1",
+      "capital" : "Moscow",
+      "continent" : "Europe",
+      "population" : 145000000,
+      "area" : 17098242,
+      "gdp" : 1699,
+      "languages" : [
+        "Russian"
+      ],
+      "currency" : "Ruble"
+    },
+    {
+      "name" : "Russia (2)",
+      "code" : "RU2",
+      "capital" : "Moscow",
+      "continent" : "Europe",
+      "population" : 145000000,
+      "area" : 17098242,
+      "gdp" : 1699,
+      "languages" : [
+        "Russian"
+      ],
+      "currency" : "Ruble"
+    },
+    {
+      "name" : "Russia (3)",
+      "code" : "RU3",
+      "capital" : "Moscow",
+      "continent" : "Europe",
+      "population" : 145000000,
+      "area" : 17098242,
+      "gdp" : 1699,
+      "languages" : [
+        "Russian"
+      ],
+      "currency" : "Ruble"
+    },
+    {
+      "name" : "Russia (4)",
+      "code" : "RU4",
+      "capital" : "Moscow",
+      "continent" : "Europe",
+      "population" : 145000000,
+      "area" : 17098242,
+      "gdp" : 1699,
+      "languages" : [
+        "Russian"
+      ],
+      "currency" : "Ruble"
+    },
+    {
+      "name" : "Russia (5)",
+      "code" : "RU5",
+      "capital" : "Moscow",
+      "continent" : "Europe",
+      "population" : 145000000,
+      "area" : 17098242,
+      "gdp" : 1699,
+      "languages" : [
+        "Russian"
+      ],
+      "currency" : "Ruble"
+    },
+    {
+      "name" : "Russia (6)",
+      "code" : "RU6",
+      "capital" : "Moscow",
+      "continent" : "Europe",
+      "population" : 145000000,
+      "area" : 17098242,
+      "gdp" : 1699,
+      "languages" : [
+        "Russian"
+      ],
+      "currency" : "Ruble"
+    },
+    {
+      "name" : "Russia (7)",
+      "code" : "RU7",
+      "capital" : "Moscow",
+      "continent" : "Europe",
+      "population" : 145000000,
+      "area" : 17098242,
+      "gdp" : 1699,
+      "languages" : [
+        "Russian"
+      ],
+      "currency" : "Ruble"
+    },
+    {
+      "name" : "Russia (8)",
+      "code" : "RU8",
+      "capital" : "Moscow",
+      "continent" : "Europe",
+      "population" : 145000000,
+      "area" : 17098242,
+      "gdp" : 1699,
+      "languages" : [
+        "Russian"
+      ],
+      "currency" : "Ruble"
+    },
+    {
+      "name" : "Russia (9)",
+      "code" : "RU9",
+      "capital" : "Moscow",
+      "continent" : "Europe",
+      "population" : 145000000,
+      "area" : 17098242,
+      "gdp" : 1699,
+      "languages" : [
+        "Russian"
+      ],
+      "currency" : "Ruble"
+    }
+  ],
+  "TopCountriesGdp" : [
+    {
+      "name" : "United States",
+      "code" : "US",
+      "capital" : "Washington D.C.",
+      "continent" : "North America",
+      "population" : 331000000,
+      "area" : 9833517,
+      "gdp" : 21433,
+      "languages" : [
+        "English"
+      ],
+      "currency" : "Dollar"
+    },
+    {
+      "name" : "United States (1)",
+      "code" : "US1",
+      "capital" : "Washington D.C.",
+      "continent" : "North America",
+      "population" : 331000000,
+      "area" : 9833517,
+      "gdp" : 21433,
+      "languages" : [
+        "English"
+      ],
+      "currency" : "Dollar"
+    },
+    {
+      "name" : "United States (2)",
+      "code" : "US2",
+      "capital" : "Washington D.C.",
+      "continent" : "North America",
+      "population" : 331000000,
+      "area" : 9833517,
+      "gdp" : 21433,
+      "languages" : [
+        "English"
+      ],
+      "currency" : "Dollar"
+    },
+    {
+      "name" : "United States (3)",
+      "code" : "US3",
+      "capital" : "Washington D.C.",
+      "continent" : "North America",
+      "population" : 331000000,
+      "area" : 9833517,
+      "gdp" : 21433,
+      "languages" : [
+        "English"
+      ],
+      "currency" : "Dollar"
+    },
+    {
+      "name" : "United States (4)",
+      "code" : "US4",
+      "capital" : "Washington D.C.",
+      "continent" : "North America",
+      "population" : 331000000,
+      "area" : 9833517,
+      "gdp" : 21433,
+      "languages" : [
+        "English"
+      ],
+      "currency" : "Dollar"
+    },
+    {
+      "name" : "United States (5)",
+      "code" : "US5",
+      "capital" : "Washington D.C.",
+      "continent" : "North America",
+      "population" : 331000000,
+      "area" : 9833517,
+      "gdp" : 21433,
+      "languages" : [
+        "English"
+      ],
+      "currency" : "Dollar"
+    },
+    {
+      "name" : "United States (6)",
+      "code" : "US6",
+      "capital" : "Washington D.C.",
+      "continent" : "North America",
+      "population" : 331000000,
+      "area" : 9833517,
+      "gdp" : 21433,
+      "languages" : [
+        "English"
+      ],
+      "currency" : "Dollar"
+    },
+    {
+      "name" : "United States (7)",
+      "code" : "US7",
+      "capital" : "Washington D.C.",
+      "continent" : "North America",
+      "population" : 331000000,
+      "area" : 9833517,
+      "gdp" : 21433,
+      "languages" : [
+        "English"
+      ],
+      "currency" : "Dollar"
+    },
+    {
+      "name" : "United States (8)",
+      "code" : "US8",
+      "capital" : "Washington D.C.",
+      "continent" : "North America",
+      "population" : 331000000,
+      "area" : 9833517,
+      "gdp" : 21433,
+      "languages" : [
+        "English"
+      ],
+      "currency" : "Dollar"
+    },
+    {
+      "name" : "United States (9)",
+      "code" : "US9",
+      "capital" : "Washington D.C.",
+      "continent" : "North America",
+      "population" : 331000000,
+      "area" : 9833517,
+      "gdp" : 21433,
+      "languages" : [
+        "English"
+      ],
+      "currency" : "Dollar"
+    }
+  ],
+  "AvgPopulationByContient" : {
+    "Oceania" : 1.75E7,
+    "North America" : 6.975E7,
+    "Europe" : 3.5578947368421055E7,
+    "South America" : 5.225E7,
+    "Asia" : 1.495E8,
+    "Africa" : 3.770588235294118E7
+  },
+  "CountryByContinent" : {
+    "Oceania" : 240,
+    "North America" : 960,
+    "Europe" : 2280,
+    "South America" : 960,
+    "Asia" : 3600,
+    "Africa" : 4080
+  },
+  "most_common_languages" : {
+    "Russian" : 480,
+    "Quechua" : 240,
+    "Portuguese" : 480,
+    "Swahili" : 360,
+    "English" : 2880,
+    "Arabic" : 1680,
+    "Spanish" : 1560,
+    "German" : 480,
+    "Berber" : 240,
+    "French" : 2280
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "statistics" : {
+    "total_countries_parsed" : 101,
+    "total_countries_valid" : 101,
+    "parsing_errors" : 0,
+    "duplicates_removed" : 0
+  },
+  "TopCountriesPopulation" : [
+    {
+      "name" : "Togo",
+      "population" : 8000000,
+      "continent" : "Africa"
+    },
+    {
+      "name" : "Sierra Leone",
+      "population" : 8000000,
+      "continent" : "Africa"
+    },
+    {
+      "name" : "Tajikistan",
+      "population" : 9000000,
+      "continent" : "Asia"
+    },
+    {
+      "name" : "Austria",
+      "population" : 9000000,
+      "continent" : "Europe"
+    },
+    {
+      "name" : "Papua New Guinea",
+      "population" : 9000000,
+      "continent" : "Oceania"
+    },
+    {
+      "name" : "Serbia",
+      "population" : 9000000,
+      "continent" : "Europe"
+    },
+    {
+      "name" : "Israel",
+      "population" : 9000000,
+      "continent" : "Asia"
+    },
+    {
+      "name" : "Switzerland",
+      "population" : 9000000,
+      "continent" : "Europe"
+    },
+    {
+      "name" : "Jordan",
+      "population" : 10000000,
+      "continent" : "Asia"
+    },
+    {
+      "name" : "Portugal",
+      "population" : 10000000,
+      "continent" : "Europe"
+    }
+  ],
+  "TopCountriesArea" : [
+    {
+      "name" : "Israel",
+      "code" : "IL",
+      "capital" : "Jerusalem",
+      "continent" : "Asia",
+      "population" : 9000000,
+      "area" : 22072,
+      "gdp" : 395,
+      "languages" : [
+        "Hebrew",
+        "Arabic"
+      ],
+      "currency" : "Shekel"
+    },
+    {
+      "name" : "Rwanda",
+      "code" : "RW",
+      "capital" : "Kigali",
+      "continent" : "Africa",
+      "population" : 13000000,
+      "area" : 26338,
+      "gdp" : 10,
+      "languages" : [
+        "Kinyarwanda",
+        "French",
+        "English"
+      ],
+      "currency" : "Franc"
+    },
+    {
+      "name" : "Haiti",
+      "code" : "HT",
+      "capital" : "Port-au-Prince",
+      "continent" : "North America",
+      "population" : 11000000,
+      "area" : 27750,
+      "gdp" : 8,
+      "languages" : [
+        "French",
+        "Haitian Creole"
+      ],
+      "currency" : "Gourde"
+    },
+    {
+      "name" : "Burundi",
+      "code" : "BI",
+      "capital" : "Gitega",
+      "continent" : "Africa",
+      "population" : 12000000,
+      "area" : 27834,
+      "gdp" : 3,
+      "languages" : [
+        "Kirundi",
+        "French"
+      ],
+      "currency" : "Franc"
+    },
+    {
+      "name" : "Belgium",
+      "code" : "BE",
+      "capital" : "Brussels",
+      "continent" : "Europe",
+      "population" : 12000000,
+      "area" : 30528,
+      "gdp" : 533,
+      "languages" : [
+        "Dutch",
+        "French",
+        "German"
+      ],
+      "currency" : "Euro"
+    },
+    {
+      "name" : "Taiwan",
+      "code" : "TW",
+      "capital" : "Taipei",
+      "continent" : "Asia",
+      "population" : 24000000,
+      "area" : 36193,
+      "gdp" : 611,
+      "languages" : [
+        "Mandarin"
+      ],
+      "currency" : "Dollar"
+    },
+    {
+      "name" : "Switzerland",
+      "code" : "CH",
+      "capital" : "Bern",
+      "continent" : "Europe",
+      "population" : 9000000,
+      "area" : 41285,
+      "gdp" : 752,
+      "languages" : [
+        "German",
+        "French",
+        "Italian",
+        "Romansh"
+      ],
+      "currency" : "Franc"
+    },
+    {
+      "name" : "Netherlands",
+      "code" : "NL",
+      "capital" : "Amsterdam",
+      "continent" : "Europe",
+      "population" : 17000000,
+      "area" : 41850,
+      "gdp" : 913,
+      "languages" : [
+        "Dutch"
+      ],
+      "currency" : "Euro"
+    },
+    {
+      "name" : "Dominican Republic",
+      "code" : "DO",
+      "capital" : "Santo Domingo",
+      "continent" : "North America",
+      "population" : 11000000,
+      "area" : 48671,
+      "gdp" : 89,
+      "languages" : [
+        "Spanish"
+      ],
+      "currency" : "Peso"
+    },
+    {
+      "name" : "Togo",
+      "code" : "TG",
+      "capital" : "Lomé",
+      "continent" : "Africa",
+      "population" : 8000000,
+      "area" : 56785,
+      "gdp" : 7,
+      "languages" : [
+        "French"
+      ],
+      "currency" : "Franc"
+    }
+  ],
+  "TopCountriesGdp" : [
+    {
+      "name" : "Burundi",
+      "code" : "BI",
+      "capital" : "Gitega",
+      "continent" : "Africa",
+      "population" : 12000000,
+      "area" : 27834,
+      "gdp" : 3,
+      "languages" : [
+        "Kirundi",
+        "French"
+      ],
+      "currency" : "Franc"
+    },
+    {
+      "name" : "South Sudan",
+      "code" : "SS",
+      "capital" : "Juba",
+      "continent" : "Africa",
+      "population" : 11000000,
+      "area" : 619745,
+      "gdp" : 3,
+      "languages" : [
+        "English"
+      ],
+      "currency" : "Pound"
+    },
+    {
+      "name" : "Sierra Leone",
+      "code" : "SL",
+      "capital" : "Freetown",
+      "continent" : "Africa",
+      "population" : 8000000,
+      "area" : 71740,
+      "gdp" : 4,
+      "languages" : [
+        "English"
+      ],
+      "currency" : "Leone"
+    },
+    {
+      "name" : "Somalia",
+      "code" : "SO",
+      "capital" : "Mogadishu",
+      "continent" : "Africa",
+      "population" : 16000000,
+      "area" : 637657,
+      "gdp" : 5,
+      "languages" : [
+        "Somali",
+        "Arabic"
+      ],
+      "currency" : "Shilling"
+    },
+    {
+      "name" : "Malawi",
+      "code" : "MW",
+      "capital" : "Lilongwe",
+      "continent" : "Africa",
+      "population" : 19000000,
+      "area" : 118484,
+      "gdp" : 7,
+      "languages" : [
+        "English",
+        "Chichewa"
+      ],
+      "currency" : "Kwacha"
+    },
+    {
+      "name" : "Togo",
+      "code" : "TG",
+      "capital" : "Lomé",
+      "continent" : "Africa",
+      "population" : 8000000,
+      "area" : 56785,
+      "gdp" : 7,
+      "languages" : [
+        "French"
+      ],
+      "currency" : "Franc"
+    },
+    {
+      "name" : "Haiti",
+      "code" : "HT",
+      "capital" : "Port-au-Prince",
+      "continent" : "North America",
+      "population" : 11000000,
+      "area" : 27750,
+      "gdp" : 8,
+      "languages" : [
+        "French",
+        "Haitian Creole"
+      ],
+      "currency" : "Gourde"
+    },
+    {
+      "name" : "Tajikistan",
+      "code" : "TJ",
+      "capital" : "Dushanbe",
+      "continent" : "Asia",
+      "population" : 9000000,
+      "area" : 143100,
+      "gdp" : 8,
+      "languages" : [
+        "Tajik",
+        "Russian"
+      ],
+      "currency" : "Somoni"
+    },
+    {
+      "name" : "Rwanda",
+      "code" : "RW",
+      "capital" : "Kigali",
+      "continent" : "Africa",
+      "population" : 13000000,
+      "area" : 26338,
+      "gdp" : 10,
+      "languages" : [
+        "Kinyarwanda",
+        "French",
+        "English"
+      ],
+      "currency" : "Franc"
+    },
+    {
+      "name" : "Chad",
+      "code" : "TD",
+      "capital" : "N'Djamena",
+      "continent" : "Africa",
+      "population" : 16000000,
+      "area" : 1284000,
+      "gdp" : 11,
+      "languages" : [
+        "French",
+        "Arabic"
+      ],
+      "currency" : "Franc"
+    }
+  ],
+  "AvgPopulationByContient" : {
+    "Oceania" : 1.75E7,
+    "North America" : 6.975E7,
+    "Europe" : 3.5578947368421055E7,
+    "South America" : 5.225E7,
+    "Asia" : 1.495E8,
+    "Africa" : 3.770588235294118E7
+  },
+  "CountryByContinent" : {
+    "Oceania" : 2,
+    "North America" : 8,
+    "Europe" : 19,
+    "South America" : 8,
+    "Asia" : 30,
+    "Africa" : 34
+  },
+  "most_common_languages" : {
+    "Afrikaans" : 1,
+    "Thai" : 1,
+    "Swedish" : 1,
+    "Ukrainian" : 1,
+    "Hungarian" : 1,
+    "Hebrew" : 1,
+    "Haitian Creole" : 1,
+    "Romansh" : 1,
+    "Urdu" : 1,
+    "Malagasy" : 1
+  }
+}
